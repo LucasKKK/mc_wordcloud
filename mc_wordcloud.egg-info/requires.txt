@@ -1,4 +1,2 @@
 wordcloud
-numpy
 matplotlib
-pillow
